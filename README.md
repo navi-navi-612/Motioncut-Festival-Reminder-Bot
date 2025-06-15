@@ -47,7 +47,7 @@ This Festival Reminder Bot lets users:
 
     git clone https://github.com/your-username/festival-reminder-bot.git
     cd festival-reminder-bot
-   
-3. 2. Install Dependencies
+
+2. Install Dependencies
 
     pip install plyer twilio python-dotenv
